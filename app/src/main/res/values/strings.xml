@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">viewpager2</string>
+    <string name="text_red">赤</string>
+    <string name="text_blue">青</string>
+    <string name="text_green">緑</string>
+    <string name="text_yellow">黄色</string>
+</resources>
